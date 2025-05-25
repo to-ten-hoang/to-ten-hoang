@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Vũ Huy Hoàng
+# 👋 Hello! I'm Huy Hoang (Vũ Huy Hoàng)
 
 🎓 I'm a student majoring in Information Technology at the Posts and Telecommunications Institute of Technology (PTIT)  
 💻 I'm currently learning and working with:
